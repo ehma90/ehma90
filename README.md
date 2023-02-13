@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://https://ehmadev.vercel.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://https://ehmadev.vercel.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://https://ehmadev.vercel)
+[![website](./img/globe-dark.svg)](https://https://ehmadev.vercel)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ehmaessien#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ehmaessien#gh-dark-mode-only)

@@ -3,7 +3,6 @@
 
 ## I'm a Frontend Engineer!
 
-- I believe learning never stops. 
 - I’m looking to collaborate with other developers.
 - I enjoy communication, else how do we get relevant information? 
 - I love meditating, help to organize my thinking process.

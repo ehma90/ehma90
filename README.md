@@ -4,7 +4,6 @@
 ## I'm a Frontend Engineer!
 
 - I’m looking to collaborate with other developers.
-- I enjoy communication, else how do we get relevant information? 
 - I love meditating, help to organize my thinking process.
 - My code is almost guaranteed to run on your device :relaxed:.
 

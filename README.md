@@ -1,7 +1,7 @@
 # Hi there, I'm Emmanuel :wave:
 
 
-## I'm a Frontend Engineer!
+## I'm a Software Engineer!
 
 - I’m looking to collaborate with other developers.
 - I love meditating, help to organize my thinking process.

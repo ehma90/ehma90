@@ -18,7 +18,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ehmaessien/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ehmaessien/#gh-dark-mode-only)
 
-### Languages and Tech Stack:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,6 +31,7 @@
 <img align="left" alt="React" width="26px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://www.bynder.com/images/meta/meta-figma.jpg" style="padding-right:10px;" />
 
 
 [website]: https://https://ehmadev.vercel.app/

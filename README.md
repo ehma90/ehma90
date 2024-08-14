@@ -35,7 +35,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://static.wikia.nocookie.net/google/images/5/59/20170705002951.png/revision/latest/thumbnail/width/360/height/360?cb=20170704185921" style="padding-right:10px;" />
 
 
-[website]: https://https://ehmadev.vercel.app/
+[website]: https://https://ehma.dev
 [twitter]: https://twitter.com/ehmaessien
 [linkedin]: https://www.linkedin.com/in/ehmaessien/
 

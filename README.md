@@ -9,11 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ehmadev.vercel.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ehmadev.vercel.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ehmaessien#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ehmaessien#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ehma.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ehma.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ehmaessien/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ehmaessien/#gh-dark-mode-only)

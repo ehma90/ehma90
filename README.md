@@ -1,9 +1,6 @@
 # Hi there, I'm Emmanuel :wave:
 
-
-## I'm a Software Engineer!
-
-- I’m looking to collaborate with other developers.
+- I’m happy to meet you, currently looking to collaborate with other developers.
 - I love meditating, help to organize my thinking process.
 - My code is almost guaranteed to run on your device :relaxed:.
 

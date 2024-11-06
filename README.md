@@ -24,7 +24,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/08/figma.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://static.wikia.nocookie.net/google/images/5/59/20170705002951.png/revision/latest/thumbnail/width/360/height/360?cb=20170704185921" style="padding-right:10px;" />
 
 

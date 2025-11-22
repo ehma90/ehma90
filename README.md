@@ -1,4 +1,4 @@
-# Hi there, I'm Mfonobong udokang :wave:
+# Hi there, I'm Emmanuel Essienn :wave:
 
 - I’m happy to meet you, currently looking to collaborate with other developers.
 - My code is almost guaranteed to run on your device :relaxed:.

@@ -1,7 +1,6 @@
 # Hi there, I'm Emmanuel :wave:
 
 - I’m happy to meet you, currently looking to collaborate with other developers.
-- My code is almost guaranteed to run on your device :relaxed:.
 
 [![website](./img/globe-light.svg)](https://ehma.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://ehma.dev#gh-dark-mode-only)

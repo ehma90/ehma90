@@ -68,7 +68,6 @@ From React and Next.js applications to API-driven experiences, I focus on clarit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ehma90&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ehma90&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
@@ -86,7 +85,3 @@ From React and Next.js applications to API-driven experiences, I focus on clarit
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ehma90">ehma90</a></i></p>
-
-
-
-
